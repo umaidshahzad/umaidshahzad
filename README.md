@@ -1,7 +1,7 @@
 # Hi, I'm Umaid Shahzad | Full-Stack Developer 🚀
 
 <!-- BANNER OPTIONAL: You can design one on Canva (1200x400) and upload it to a cloud host or commit it to your repo -->
-<img src="[https://via.placeholder.com/1200x350/111417/FFFFFF?text=Building+Scalable,+High-Performance+Web+Architectures](https://github.com/umaidshahzad/umaidshahzad/blob/main/MY%20Banner.png?raw=true)" alt="Profile Banner" width="100%"/>
+<img src="https://github.com/umaidshahzad/umaidshahzad/blob/main/Banner.png?raw=true" alt="Profile Banner" width="100%"/>
 
 ## ⚡ About Me
 - 🎓 **Computer Science Student** focusing on clean code, performance bottlenecks, and systems thinking.
@@ -49,7 +49,7 @@
 ## 📊 GitHub Analytics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=umaidshahzad&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaidshahzad&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umaidshahzad&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
 ---
