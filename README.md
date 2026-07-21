@@ -46,19 +46,20 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=umaidshahzad&
 
 ## 🏆 Top Projects
 
-### 📡 [Real-Time CRM & Support Infrastructure]-(Live Demo : https://crm-internal-79kc.onrender.com)-(https://github.com/umaidshahzad/CRM-INTERNAL)
+### 📡 [Real-Time CRM & Support Infrastructure]-(Live Demo : https://crm-internal-79kc.onrender.com)
+**Github Repo**(https://github.com/umaidshahzad/CRM-INTERNAL)
 - Architected a scalable **WebSocket (Socket.io)** infrastructure backed by a **Redis distributed state system** to handle real-time chat synchronization across multiple runtime environments.
 - Developed an automated failover workflow leveraging LLM API integrations to handle conversational fallbacks smoothly during spike periods.
 - Implemented real-time analytical computation layers to track conversation states, live agent availability metrics, and lead sources.
 - **Tech Stack:** React.js, Node.js, Express, MongoDB, Redis, Socket.io, Tailwind CSS
 
-### 🧠 [Semantic RAG Study Engine](https://github.com/umaidshahzad/RAG-LMS)
+### 🧠 [Semantic RAG Study Engine]**Github Repo**(https://github.com/umaidshahzad/RAG-LMS)
 - Engineered a document-isolated vector processing channel using **MongoDB Atlas Vector Search** to conduct high-dimensional cosine similarity operations over text fragments.
 - Structured automated execution pipelines to produce structured JSON study materials with embedded application-wide caching strategies.
 - Formulated custom aggregation workflows to ensure data validation, isolation, and fast document lifecycle management.
 - **Tech Stack:** React.js, Node.js, Express, MongoDB Atlas Vector Search, Gemini API, JWT
 
-### 💼 [MH Concepts — Full Stack Interior Decor Lead Generation Platform ]( Live Demo : https://mh-concepts-frontend.onrender.com) - (https://github.com/umaidshahzad/MH-Concepts-v2)
+### 💼 [MH Concepts — Full Stack Interior Decor Lead Generation Platform ]( Live Demo : https://mh-concepts-frontend.onrender.com) **Github Repo** (https://github.com/umaidshahzad/MH-Concepts-v2)
 –	Engineered a dynamic product showroom with real-time category filtering and keyword search, enabling a mobile-first browsing experience for business clients.
 –	Built a secure admin dashboard with full product CRUD, customer inquiry tracking, and live business analytics — all protected via JWT authentication and HTTP-only cookies.
 –	Integrated WhatsApp Cloud API and Nodemailer SMTP to deliver dual instant notifications to the admin on every new customer lead.
