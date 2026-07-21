@@ -25,7 +25,7 @@ Hi, I'm **Umaid Shahzad** 👋 — a passionate **Software Engineer** and **Full
 
 
 # **🌐Socials**
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1JZdYXdWXb/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/umaid_shahzad_mughal?igsh=MTB5ZGMyc2E0c2wxNA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/umaid-shahzad-6b083b347)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1JZdYXdWXb/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/umaid_shahzad_mughal?igsh=MTB5ZGMyc2E0c2wxNA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umaid-shahzad-6b083b347/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umaidhamza0@gmail.com) 
 
 # 💻 **Tech Stack**
